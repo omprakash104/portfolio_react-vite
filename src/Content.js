@@ -13,8 +13,8 @@ import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
 // import project1 from "./assets/images/projects/crm.png";
-import project2 from "./assets/images/projects/img2.png";
-import project3 from "./assets/images/projects/img3.png";
+// import project2 from "./assets/images/projects/img2.png";
+// import project3 from "./assets/images/projects/img3.png";
 import person_project from "./assets/images/projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
@@ -146,14 +146,14 @@ export const content = {
       //   title: "CRM Website",
       //   image: project1,
       // },
-      {
-        title: "Social Media web",
-        image: project2,
-      },
-      {
-        title: "Creative Website",
-        image: project3,
-      },
+      // {
+      //   title: "Social Media web",
+      //   image: project2,
+      // },
+      // {
+      //   title: "Creative Website",
+      //   image: project3,
+      // },
     ],
   },
   Testimonials: {
