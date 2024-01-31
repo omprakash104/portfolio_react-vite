@@ -18,14 +18,14 @@ npm run dev
 + aos scroll animation
 + and more....
 
-## youtube video link
+<!-- ## youtube video link
 [Watch now](https://youtu.be/YpFK4hUZ-NM)
 
 ## live preview link
 [See Now](https://codeaprogram-portfolio.web.app/)
 
 ## Startup repository link
-[Repository](https://github.com/Sridhar-C-25/React_portfolio_2_startup)
+[Repository](https://github.com/Sridhar-C-25/React_portfolio_2_startup) -->
 
 ## packages:
 + [tailwind css](https://tailwindcss.com/docs/installation)
