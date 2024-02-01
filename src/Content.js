@@ -1,6 +1,8 @@
 // import images
 import Hero_person from "./assets/images/Hero/person.png";
 
+import logoImage from "./assets/images/Logo/logoimg.png";
+
 import java from "./assets/images/Skills/java.png";
 import sketch from "./assets/images/Skills/sketch.png";
 import ps from "./assets/images/Skills/ps.png";
@@ -36,11 +38,11 @@ import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
 import { MdOutlinePermContactCalendar } from "react-icons/md";
 
 export const content = {
-  logo: [
+  logo:
     {
-      logo: java,
+      image: logoImage,
     }
-  ],
+  ,
   nav: [
     {
       link: "#home",

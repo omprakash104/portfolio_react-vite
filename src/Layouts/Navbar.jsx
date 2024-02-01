@@ -4,16 +4,17 @@ import { HiMenuAlt2 } from "react-icons/hi";
 import { createElement } from "react";
 
 const Navbar = () => {
-  const { nav } = content;
+  const { nav, logo } = content;
   const [showMenu, setShowMenu] = useState(false);
   const [active, setActive] = useState(0);
 
+  console.log(logo);
   return (
     <div className="flex justify-center">
       <div
         className="sm:cursor-pointer fixed top-10 left-10 p-2 " style={{width:'15vh'}}
       ><img
-      src="src\assets\images\Logo\logoimg.png" alt="Logo" 
+      src={logo.image} alt="Logo" 
       /></div>
       <div
         className="sm:cursor-pointer fixed top-10 right-10 z-[999] rounded-lg bg-white/40 p-2"
