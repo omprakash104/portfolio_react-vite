@@ -13,7 +13,7 @@ const Navbar = () => {
       <div
         className="sm:cursor-pointer fixed top-10 left-10 p-2 " style={{width:'15vh'}}
       ><img
-      src="src\assets\images\Logo\logopng.png" alt="Logo" 
+      src="src\assets\images\Logo\logoimg.png" alt="Logo" 
       /></div>
       <div
         className="sm:cursor-pointer fixed top-10 right-10 z-[999] rounded-lg bg-white/40 p-2"
